@@ -1,1 +1,7 @@
+ADD LINE 1 HERE
 This is my 1st file
+
+
+ADD LINE 5 HERE
+
+SOME MORE CODE
